@@ -4,7 +4,7 @@
 
 //PULLING FROM RIOT API
 let apiKey ='RGAPI-16b22c45-d239-4d9f-9e45-eaffa2142240' //refreshes every day
-//let summonerName = args.widgetParameter;
+
 let summonerName = args.widgetParameter;
 
 let summonerIDObj = await getSummoner();

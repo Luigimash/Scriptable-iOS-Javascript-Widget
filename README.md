@@ -3,7 +3,7 @@ Uses [Scriptable](https://docs.scriptable.app/), an iOS app that allows for the 
 The Riot API Key resets every 24 hours, so to run this script on your phone you require access to the [Riot API](https://developer.riotgames.com/).
 
 # Images
-![](images/IMG_1058)
-![](images/IMG_1059)
-![](images/IMG_1060)
-![](images/IMG_1061)
+![2](images/IMG_1058)
+![2](images/IMG_1059)
+![text](images/IMG_1060)
+![43345](images/IMG_1061)
